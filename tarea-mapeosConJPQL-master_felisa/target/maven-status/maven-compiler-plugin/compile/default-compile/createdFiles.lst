@@ -1,0 +1,9 @@
+mx\uacm\tarea\daos\GeneroDAO.class
+mx\uacm\tarea\daos\GenericDAO.class
+mx\uacm\tarea\daos\impl\GenericDAOImpl.class
+mx\uacm\tarea\entidades\Pelicula.class
+mx\uacm\tarea\entidades\Genero.class
+mx\uacm\tarea\daos\PeliculaDAO.class
+.netbeans_automatic_build
+mx\uacm\tarea\daos\impl\GeneroDAOImpl.class
+mx\uacm\tarea\daos\impl\PeliculaDAOImpl.class
